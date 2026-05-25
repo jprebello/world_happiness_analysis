@@ -32,22 +32,26 @@ A felicidade é subjetiva. Isso significa que diversos fatores que não estão n
 1. Country
 
 Tipo: texto
+
 Nome do país analisado.
 
 2. Region
 
 Tipo: texto
+
 Região geográfica do país.
 
 ### Métricas principais:
 3. Happiness Rank
 
 Tipo: número inteiro
+
 Ranking dos países baseado no Happiness Score.
 
 4. Happiness Score
 
 Tipo: número decimal
+
 Representa o nível médio de felicidade da população de um país.
 
 ### Fatores Explicativos
@@ -56,26 +60,31 @@ Representa o nível médio de felicidade da população de um país.
 5. Economy (GDP per Capita)
 
 Tipo: decimal
+
 Representa a riqueza média do país por pessoa.
 
 6. Social Support
 
 Tipo: decimal
+
 Mede apoio social percebido.
 
 7. Health (Life Expectancy)
 
 Tipo: decimal
+
 Representa a expectativa de vida saudável da população.
 
 8. Freedom
 
 Tipo: decimal
+
 Mede a liberdade percebida para tomar decisões na vida.
 
 9. Trust (Government Corruption)
 
 Tipo: decimal
+
 Mede a percepção de corrupção no governo e nas instituições.
 
 *Cada variável contribui com uma parcela da felicidade média do país.*
